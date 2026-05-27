@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrarse",
+        "uuid": 26191616,
+        "checksum": "mrrekr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
